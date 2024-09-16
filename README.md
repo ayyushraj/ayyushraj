@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ayyushraj" alt="ayyushraj" /></a> </p>
 
-- 🔭 I’m currently working on [SmoothCoder](https://github.com/Starkz24/codeBrew)
+- 🔭 I’m currently working on [HomeAway](https://github.com/ayyushraj/Remote-Nest)
 
 - 🌱 I’m currently learning **nextjs**
 
