@@ -5,12 +5,6 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ayyushraj" alt="ayyushraj" /></a> </p>
 
-- 🔭 I’m currently working on [HomeAway](https://github.com/ayyushraj/Remote-Nest)
-
-- 🌱 I’m currently learning **nextjs**
-
-- 💬 Ask me about **react, nextjs, node, C++, JavaScript**
-
 - 📫 How to reach me **https://www.linkedin.com/in/ayyush-raj/**
 
 <h3 align="left">Connect with me:</h3>
