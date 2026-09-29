@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ayush Raj</h1>
-<h3 align="center">Welcome to my Github profile ! I'm a 4th year student, pursuing Information Science Engineering.</h3>
+<h3 align="center">Welcome to my Github profile ! I'm a Software Engineer at Myntra.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ayyushraj&label=Profile%20views&color=0e75b6&style=flat" alt="ayyushraj" /> </p>
 
